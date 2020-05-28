@@ -1,6 +1,7 @@
 h1 a, h2 a {
     color: #C25100;
     font-family: 'Lobster';
+    background-color: aquamarine;
 }
 body {
     padding-left: 0px;
